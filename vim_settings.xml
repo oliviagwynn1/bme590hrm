@@ -1,0 +1,57 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1539891981599">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Python_BME590/person_test.py" timestamp="1539893759443" />
+      <file name="/Python Console" timestamp="1539826058843">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Python_BME590/person_class.py" timestamp="1539893505502" />
+      <file name="$USER_HOME$/bme590hrm/environment.yml" timestamp="1539824030389">
+        <mark key="[" line="3" column="2" />
+      </file>
+      <file name="/a.dummy" timestamp="1539892000853">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Python_BME590/dictionaries" timestamp="1539890117717">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Python_BME590/add_integers.py" timestamp="1539721291787">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/Python_BME590/class_test.py" timestamp="1539891844448">
+        <mark key="y" line="9" column="4" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Python_BME590/Dictionary.py" timestamp="1539891168983">
+        <mark key="[" line="49" column="33" />
+      </file>
+      <file name="$USER_HOME$/bme590hrm/hrm.py" timestamp="1540145905492">
+        <mark key="[" line="10" column="39" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
