@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540176388359">
+      <file name="/Dummy.txt" timestamp="1540178898912">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Python_BME590/person_test.py" timestamp="1539893759443" />
@@ -19,6 +19,11 @@
       </file>
       <file name="/a.dummy" timestamp="1539892000853">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bme590hrm/test_hrm.py" timestamp="1540179229161">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Python_BME590/dictionaries" timestamp="1539890117717">
         <mark key="[" line="0" column="0" />
@@ -33,10 +38,17 @@
       <file name="$USER_HOME$/Python_BME590/Dictionary.py" timestamp="1539891168983">
         <mark key="[" line="49" column="33" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/hrm.py" timestamp="1540174623979" />
+      <file name="$USER_HOME$/bme590hrm/hrm.py" timestamp="1540177212883" />
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">Cmlm</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Cmlm</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
