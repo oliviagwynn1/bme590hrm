@@ -23,10 +23,11 @@
       <file name="/a.dummy" timestamp="1539892000853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/test_hrm.py" timestamp="1540304857753">
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="30" column="18" />
-        <mark key="." line="30" column="18" />
+      <file name="$USER_HOME$/bme590hrm/test_hrm.py" timestamp="1540306768917">
+        <mark key="e" line="79" column="21" />
+        <mark key="[" line="79" column="10" />
+        <mark key="]" line="79" column="10" />
+        <mark key="." line="79" column="10" />
       </file>
       <file name="$USER_HOME$/Python_BME590/dictionaries" timestamp="1539890117717">
         <mark key="[" line="0" column="0" />
@@ -49,7 +50,10 @@
         <text encoding="base64">Cmlm</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Cmlm</text>
+        <text>myDictionary</text>
+      </register>
+      <register name="-" type="4">
+        <text>myDictionary</text>
       </register>
     </registers>
     <search>
