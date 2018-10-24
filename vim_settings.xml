@@ -12,8 +12,11 @@
       <file name="/Dummy.txt" timestamp="1540343626883">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1540336144946">
+      <file name="/Python Console" timestamp="1540391484213">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540391807544">
+        <mark key="[" line="19" column="47" />
       </file>
       <file name="$USER_HOME$/bme590hrm/environment.yml" timestamp="1540171837869">
         <mark key="[" line="1" column="11" />
@@ -51,8 +54,8 @@
       <file name="$USER_HOME$/Python_BME590/Dictionary.py" timestamp="1539891168983">
         <mark key="[" line="49" column="33" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/hrm.py" timestamp="1540324577640">
-        <mark key="'" line="99" column="4" />
+      <file name="$USER_HOME$/bme590hrm/hrm.py" timestamp="1540391580737">
+        <mark key="'" line="229" column="4" />
       </file>
     </filemarks>
     <jumps>
