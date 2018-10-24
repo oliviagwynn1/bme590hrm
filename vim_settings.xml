@@ -15,8 +15,9 @@
       <file name="/Python Console" timestamp="1540391484213">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540391807544">
-        <mark key="[" line="19" column="47" />
+      <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540392657391">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="18" column="47" />
       </file>
       <file name="$USER_HOME$/bme590hrm/environment.yml" timestamp="1540171837869">
         <mark key="[" line="1" column="11" />
@@ -60,6 +61,7 @@
     </filemarks>
     <jumps>
       <jump line="34" column="4" filename="$USER_HOME$/bme590hrm/hrm.py" />
+      <jump line="26" column="17" filename="$USER_HOME$/bme590hrm/reader.py" />
     </jumps>
     <registers>
       <register name="1" type="4">
