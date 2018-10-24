@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540324602639">
+      <file name="/Dummy.txt" timestamp="1540340585292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1540336144946">
@@ -24,11 +24,17 @@
       <file name="/a.dummy" timestamp="1539892000853">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bme590hrm/voltage_extremes.py" timestamp="1540340396694">
+        <mark key="[" line="2" column="4" />
+      </file>
       <file name="$USER_HOME$/bme590hrm/test_hrm.py" timestamp="1540320524410">
         <mark key="e" line="83" column="21" />
         <mark key="[" line="55" column="4" />
         <mark key="]" line="55" column="11" />
         <mark key="." line="55" column="11" />
+      </file>
+      <file name="$USER_HOME$/bme590hrm/test_voltage_extremes.py" timestamp="1540340660512">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="filetypes.xml" timestamp="1540320958146">
         <mark key="[" line="0" column="0" />
@@ -43,7 +49,7 @@
         <mark key="[" line="49" column="33" />
       </file>
       <file name="$USER_HOME$/bme590hrm/hrm.py" timestamp="1540324577640">
-        <mark key="'" line="34" column="4" />
+        <mark key="'" line="99" column="4" />
       </file>
     </filemarks>
     <jumps>
