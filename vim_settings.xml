@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540423073968">
+      <file name="/Dummy.txt" timestamp="1540483368357">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1540423073177">
@@ -34,11 +34,16 @@
         <mark key="]" line="55" column="11" />
         <mark key="." line="55" column="11" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540344296347">
-        <mark key="[" line="7" column="39" />
+      <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540482822856">
+        <mark key="[" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_voltage_extremes.py" timestamp="1540341930802">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bme590hrm/test_duration.py" timestamp="1540483152543">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="filetypes.xml" timestamp="1540320958146">
         <mark key="[" line="0" column="0" />
@@ -49,7 +54,7 @@
       <file name="$USER_HOME$/Python_BME590/add_integers.py" timestamp="1539721291787">
         <mark key="[" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Python_BME590/test_shopping.py" timestamp="1540343309929">
+      <file name="$USER_HOME$/Python_BME590/test_shopping.py" timestamp="1540483516353">
         <mark key="[" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/Python_BME590/Dictionary.py" timestamp="1539891168983">
@@ -68,10 +73,10 @@
         <text encoding="base64">Cmlm</text>
       </register>
       <register name="&quot;" type="4">
-        <text>myDictionary</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>myDictionary</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXR1cm5cPg==</text>
