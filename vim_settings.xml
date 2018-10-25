@@ -9,24 +9,23 @@
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540483368357">
+      <file name="/Dummy.txt" timestamp="1540497141445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1540423073177">
+      <file name="/Python Console" timestamp="1540498126586">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540430246938">
-        <mark key="'" line="28" column="17" />
-        <mark key="[" line="18" column="29" />
+      <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540496142110">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="39" />
+        <mark key="." line="20" column="20" />
       </file>
       <file name="$USER_HOME$/bme590hrm/environment.yml" timestamp="1540171837869">
         <mark key="[" line="1" column="11" />
       </file>
       <file name="/a.dummy" timestamp="1539892000853">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bme590hrm/voltage_extremes.py" timestamp="1540341403930">
-        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_hrm.py" timestamp="1540320524410">
         <mark key="e" line="83" column="21" />
@@ -37,13 +36,16 @@
       <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540482822856">
         <mark key="[" line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/bme590hrm/validate.py" timestamp="1540497601523">
+        <mark key="[" line="25" column="55" />
+      </file>
       <file name="$USER_HOME$/bme590hrm/test_voltage_extremes.py" timestamp="1540341930802">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/test_duration.py" timestamp="1540483152543">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="$USER_HOME$/bme590hrm/test_duration.py" timestamp="1540492279500">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
       </file>
       <file name="filetypes.xml" timestamp="1540320958146">
         <mark key="[" line="0" column="0" />
@@ -54,8 +56,8 @@
       <file name="$USER_HOME$/Python_BME590/add_integers.py" timestamp="1539721291787">
         <mark key="[" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/Python_BME590/test_shopping.py" timestamp="1540483516353">
-        <mark key="[" line="6" column="18" />
+      <file name="$USER_HOME$/Python_BME590/test_shopping.py" timestamp="1540491734615">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Python_BME590/Dictionary.py" timestamp="1539891168983">
         <mark key="[" line="49" column="33" />
@@ -67,6 +69,7 @@
     <jumps>
       <jump line="34" column="4" filename="$USER_HOME$/bme590hrm/hrm.py" />
       <jump line="26" column="17" filename="$USER_HOME$/bme590hrm/reader.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/bme590hrm/reader.py" />
     </jumps>
     <registers>
       <register name="1" type="4">
@@ -79,19 +82,20 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXR1cm5cPg==</text>
+        <text encoding="base64">XDxwbHRcPg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXR1cm5cPg==</last-search>
+      <last-search encoding="base64">XDxwbHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXR1cm5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwbHRcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+        <entry encoding="base64">XDxwbHRcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
