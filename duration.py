@@ -1,13 +1,12 @@
 import numpy as np
 
-time = [0,1,2,3,4,5,6,10]
-time_array = np.array(time)
-
+time_array = [0, 9, 50]
+#time_array = np.array(time)
+#print(time_array)
 
 def duration(time_array):
     """Time duration of the ECG strip"""
-    length = len(time_array)
-#    return length
-    duration_val = time_array[7]
+    length = len(time_array) - 1
+    duration_val = time_array[length]
     return duration_val
 print(duration(time_array))
