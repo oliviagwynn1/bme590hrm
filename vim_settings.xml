@@ -12,7 +12,10 @@
       <file name="/Dummy.txt" timestamp="1540497141445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1540498126586">
+      <file name="$USER_HOME$/bme590hrm/peak_finder.py" timestamp="1540500220347">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1540498812160">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540496142110">
@@ -36,7 +39,7 @@
       <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540482822856">
         <mark key="[" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/validate.py" timestamp="1540497601523">
+      <file name="$USER_HOME$/bme590hrm/validate.py" timestamp="1540499232109">
         <mark key="[" line="25" column="55" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_voltage_extremes.py" timestamp="1540341930802">
