@@ -1,5 +1,3 @@
-import matplotlib.pyplot as plt
-
 def csv2(f):
     import csv
     import numpy as np
@@ -11,7 +9,7 @@ def csv2(f):
         voltage = []
         errors = 0
 
-        #Read file row by row
+        """Reads file row by row"""
         for row in reader:
             try:
                 t = (float(row[0]))
@@ -31,5 +29,3 @@ if __name__ == "__main__":
     time = data[0]
     voltage = data[1]
 
-    plt.plot(time, voltage)
-    plt.show()
