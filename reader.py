@@ -26,7 +26,10 @@ def csv_reader(data_file):
 
 
 if __name__ == "__main__":
-    data = csv_reader('test_data32.csv')
+    data = csv_reader('test_data8.csv')
+    import matplotlib.pyplot as plt
+    plt.plot(data[0], data[1])
+    plt.show()
 
 
 

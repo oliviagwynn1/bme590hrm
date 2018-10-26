@@ -22,20 +22,20 @@ class VoltageDataHigh(Error):
     pass
 
 
-def length():
+def length(time_array, voltage_array):
     """Check lengths of time and voltage are the same"""
     time_length = len(time_array)
     voltage_length = len(voltage_array)
     if time_length != voltage_length:
         raise DifferentLengthArrays
 
-def neg():
+def neg(time_array):
     """Check time has no negative data"""
     for num in time_array:
         if num < 0:
             raise NegativeTimeData
 
-def exceed():
+def exceed(voltage_array):
     """Check voltage does not exceed 300mv"""
     for val in voltage_array:
         if val > 300:
