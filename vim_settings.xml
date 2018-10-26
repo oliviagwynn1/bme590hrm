@@ -16,7 +16,7 @@
       <file name="$USER_HOME$/bme590hrm/environment.yml" timestamp="1540171837869">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1540579356885">
+      <file name="/a.dummy" timestamp="1540590151110">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/voltage_extremes.py" timestamp="1540529220355">
@@ -44,19 +44,19 @@
       <file name="$USER_HOME$/bme590hrm/negative.py" timestamp="1540579917382">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/hrm.py" timestamp="1540585936571">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/bme590hrm/hrm.py" timestamp="1540590135856">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540580447593">
+      <file name="/Dummy.txt" timestamp="1540590599186">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540531883629">
-        <mark key="[" line="28" column="33" />
+      <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540591138511">
+        <mark key="[" line="20" column="23" />
       </file>
       <file name="$USER_HOME$/bme590hrm/beats.py" timestamp="1540517365233">
         <mark key="[" line="5" column="11" />
@@ -77,12 +77,18 @@
       <file name="$USER_HOME$/bme590hrm/test_beats.py" timestamp="1540517282692">
         <mark key="[" line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/bme590hrm/metrics.py" timestamp="1540590517221">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/bme590hrm/test_duration.py" timestamp="1540525464852" />
       <file name="$USER_HOME$/Python_BME590/dictionaries" timestamp="1539890117717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Python_BME590/test_shopping.py" timestamp="1540510848849">
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/bme590hrm/test_create_dictionary.py" timestamp="1540590709237">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Python_BME590/Dictionary.py" timestamp="1539891168983">
         <mark key="[" line="49" column="33" />
