@@ -1,59 +1,30 @@
-import numpy as np
-
-time = [0,-1,2,3,4,5]
-voltage = [-5,3,9,10,305,-3, 0]
-time_array = np.array(time)
-voltage_array = np.array(voltage)
-
-class Error(Exception):
-    """Raise error"""
-    pass
-
-class DifferentLengthArrays(Error):
-    """This error is for arrays of different lengths."""
-    pass
-
-class NegativeTimeData(Error):
-    """This error is for time arrays with negative values."""
-    pass
-
-class VoltageDataHigh(Error):
-    """This error is for voltages that exceed 300mv."""
-    pass
+def validate(time_array, voltage_array):
+    from length import length
+    from negative import neg
+    from exceed import exceed
+    final = ""
+    s1 = "Time and Voltage arrays have different lengths."
+    s2 = "Time has negative values."
+    s3 = "Voltage exceeds 300mV."
 
 
-def length(time_array, voltage_array):
-    """Check lengths of time and voltage are the same"""
-    time_length = len(time_array)
-    voltage_length = len(voltage_array)
-    if time_length != voltage_length:
-        raise DifferentLengthArrays
+    try:
+        length(time_array, voltage_array)
+    except:
+        final += s1
+    try:
+        neg(time_array)
+    except:
+        final += s2
+    try:
+        exceed(voltage_array)
+    except:
+        final += s3
 
-def neg(time_array):
-    """Check time has no negative data"""
-    for num in time_array:
-        if num < 0:
-            raise NegativeTimeData
-
-def exceed(voltage_array):
-    """Check voltage does not exceed 300mv"""
-    for val in voltage_array:
-        if val > 300:
-            raise VoltageDataHigh
+    if final != "":
+        raise Exception(final)
 
 
 if __name__ == "__main__":
-    try:
-        length()
-    except DifferentLengthArrays:
-        print("Arrays are different lengths.")
-
-    try:
-        neg()
-    except NegativeTimeData:
-        print("Time array has negative values.")
-
-    try:
-        exceed()
-    except VoltageDataHigh:
-        print("Voltage exceeds 300mv.")
+    import numpy as np
+    validate(time_array = np.array([0,-1,2,3,4,5]), voltage_array=np.array([-5,3,9,10,305,-3,2]))
