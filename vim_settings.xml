@@ -7,7 +7,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/peak_finder.py" timestamp="1540511698856" />
-      <file name="/Python Console" timestamp="1540518824323">
+      <file name="/Python Console" timestamp="1540513688773">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/environment.yml" timestamp="1540171837869">
@@ -16,21 +16,20 @@
       <file name="/a.dummy" timestamp="1539892000853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/voltage_extremes.py" timestamp="1540529220355">
-        <mark key="[" line="1" column="59" />
+      <file name="$USER_HOME$/bme590hrm/test_reader.py" timestamp="1540511860658">
+        <mark key="[" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/test_reader.py" timestamp="1540527339025">
+      <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540482822856">
+        <mark key="[" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/bme590hrm/validate.py" timestamp="1540499232109">
+        <mark key="[" line="25" column="55" />
+      </file>
+      <file name="$USER_HOME$/bme590hrm/test_voltage_extremes.py" timestamp="1540341930802">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540525476741">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bme590hrm/validate.py" timestamp="1540576136483">
-        <mark key="[" line="29" column="11" />
-      </file>
-      <file name="$USER_HOME$/bme590hrm/test_voltage_extremes.py" timestamp="1540529162856">
-        <mark key="'" line="4" column="23" />
-        <mark key="[" line="0" column="50" />
+      <file name="$USER_HOME$/bme590hrm/test_num_beats.py" timestamp="1540515554016">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="filetypes.xml" timestamp="1540320958146">
         <mark key="[" line="0" column="0" />
@@ -39,38 +38,39 @@
         <mark key="[" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_peak_finder.py" timestamp="1540511761398" />
-      <file name="$USER_HOME$/bme590hrm/hrm.py" timestamp="1540531569211">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/bme590hrm/hrm.py" timestamp="1540391580737">
+        <mark key="'" line="229" column="4" />
       </file>
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540531888439">
+      <file name="/Dummy.txt" timestamp="1540515712423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540531883629">
-        <mark key="[" line="28" column="33" />
+      <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540511838067">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/beats.py" timestamp="1540517365233">
+      <file name="$USER_HOME$/bme590hrm/beats.py" timestamp="1540516716647">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/mean_hr_bpm.py" timestamp="1540526044529">
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/bme590hrm/test_hrm.py" timestamp="1540320524410">
+        <mark key="e" line="83" column="21" />
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="55" column="11" />
+        <mark key="." line="55" column="11" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/test_mean_hr_bpm.py" timestamp="1540526115434">
-        <mark key="[" line="4" column="31" />
-      </file>
-      <file name="$USER_HOME$/bme590hrm/test_beats.py" timestamp="1540517282692">
+      <file name="$USER_HOME$/bme590hrm/test_beats.py" timestamp="1540515596455">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/test_duration.py" timestamp="1540525464852" />
+      <file name="$USER_HOME$/bme590hrm/test_duration.py" timestamp="1540492279500">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+      </file>
       <file name="$USER_HOME$/Python_BME590/dictionaries" timestamp="1539890117717">
         <mark key="[" line="0" column="0" />
       </file>
@@ -80,33 +80,33 @@
       <file name="$USER_HOME$/Python_BME590/Dictionary.py" timestamp="1539891168983">
         <mark key="[" line="49" column="33" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/num_beats.py" timestamp="1540528711130" />
+      <file name="$USER_HOME$/bme590hrm/num_beats.py" timestamp="1540515567111">
+        <mark key="[" line="5" column="22" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="34" column="4" filename="$USER_HOME$/bme590hrm/hrm.py" />
       <jump line="26" column="17" filename="$USER_HOME$/bme590hrm/reader.py" />
       <jump line="27" column="4" filename="$USER_HOME$/bme590hrm/reader.py" />
-      <jump line="8" column="23" filename="$USER_HOME$/bme590hrm/test_voltage_extremes.py" />
-      <jump line="27" column="4" filename="$USER_HOME$/bme590hrm/hrm.py" />
     </jumps>
     <registers>
       <register name="1" type="4">
         <text encoding="base64">Cmlm</text>
       </register>
       <register name="&quot;" type="4">
-        <text>import</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>import</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cnlcPg==</text>
+        <text encoding="base64">XDxwbHRcPg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cnlcPg==</last-search>
+      <last-search encoding="base64">XDxwbHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cnlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwbHRcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -114,7 +114,6 @@
       <history-search>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry encoding="base64">XDxwbHRcPg==</entry>
-        <entry encoding="base64">XDx0cnlcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
