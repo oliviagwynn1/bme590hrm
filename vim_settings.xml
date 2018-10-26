@@ -25,8 +25,8 @@
       <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540525476741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/validate.py" timestamp="1540529999204">
-        <mark key="[" line="24" column="11" />
+      <file name="$USER_HOME$/bme590hrm/validate.py" timestamp="1540576136483">
+        <mark key="[" line="29" column="11" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_voltage_extremes.py" timestamp="1540529162856">
         <mark key="'" line="4" column="23" />
@@ -40,10 +40,10 @@
       </file>
       <file name="$USER_HOME$/bme590hrm/test_peak_finder.py" timestamp="1540511761398" />
       <file name="$USER_HOME$/bme590hrm/hrm.py" timestamp="1540531569211">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
