@@ -1,4 +1,3 @@
-
 def mean_beats(threshold=0.7, voltage_array=None, time_array=None):
     import peakutils
     indexes = peakutils.indexes((voltage_array), thres=threshold)
