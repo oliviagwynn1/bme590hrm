@@ -1,7 +1,7 @@
-def exceed(voltage_array):
+def exceed(voltage_array, value=300):
     """Check voltage does not exceed 300mv"""
     for val in voltage_array:
-        if val > 300:
+        if val > value:
             raise Exception
 
 
