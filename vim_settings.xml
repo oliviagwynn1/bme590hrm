@@ -28,8 +28,8 @@
       <file name="$USER_HOME$/bme590hrm/test_voltage_extremes.py" timestamp="1540341930802">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/test_num_beats.py" timestamp="1540513015888">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/bme590hrm/test_num_beats.py" timestamp="1540515554016">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="filetypes.xml" timestamp="1540320958146">
         <mark key="[" line="0" column="0" />
@@ -44,7 +44,7 @@
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540513457499">
+      <file name="/Dummy.txt" timestamp="1540515712423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540511838067">
@@ -52,14 +52,17 @@
         <mark key="]" line="18" column="39" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/beats.py" timestamp="1540512178945">
-        <mark key="[" line="7" column="4" />
+      <file name="$USER_HOME$/bme590hrm/beats.py" timestamp="1540515604000">
+        <mark key="[" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_hrm.py" timestamp="1540320524410">
         <mark key="e" line="83" column="21" />
         <mark key="[" line="55" column="4" />
         <mark key="]" line="55" column="11" />
         <mark key="." line="55" column="11" />
+      </file>
+      <file name="$USER_HOME$/bme590hrm/test_beats.py" timestamp="1540515596455">
+        <mark key="[" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_duration.py" timestamp="1540492279500">
         <mark key="[" line="9" column="6" />
@@ -75,7 +78,9 @@
       <file name="$USER_HOME$/Python_BME590/Dictionary.py" timestamp="1539891168983">
         <mark key="[" line="49" column="33" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/num_beats.py" timestamp="1540514107333" />
+      <file name="$USER_HOME$/bme590hrm/num_beats.py" timestamp="1540515567111">
+        <mark key="[" line="5" column="22" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="34" column="4" filename="$USER_HOME$/bme590hrm/hrm.py" />
