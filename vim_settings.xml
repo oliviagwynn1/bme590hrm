@@ -39,17 +39,21 @@
         <mark key="[" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_peak_finder.py" timestamp="1540511761398" />
-      <file name="$USER_HOME$/bme590hrm/hrm.py" timestamp="1540529943666">
-        <mark key="'" line="572" column="4" />
-        <mark key="[" line="11" column="20" />
+      <file name="$USER_HOME$/bme590hrm/hrm.py" timestamp="1540531569211">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540529021455">
+      <file name="/Dummy.txt" timestamp="1540531888439">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540528049337" />
+      <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540531883629">
+        <mark key="[" line="28" column="33" />
+      </file>
       <file name="$USER_HOME$/bme590hrm/beats.py" timestamp="1540517365233">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="11" />
@@ -83,25 +87,26 @@
       <jump line="26" column="17" filename="$USER_HOME$/bme590hrm/reader.py" />
       <jump line="27" column="4" filename="$USER_HOME$/bme590hrm/reader.py" />
       <jump line="8" column="23" filename="$USER_HOME$/bme590hrm/test_voltage_extremes.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/bme590hrm/hrm.py" />
     </jumps>
     <registers>
       <register name="1" type="4">
         <text encoding="base64">Cmlm</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHJldHVybiBlcnJvcnM=</text>
+        <text>import</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIHJldHVybiBlcnJvcnM=</text>
+        <text>import</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbHRcPg==</text>
+        <text encoding="base64">XDx0cnlcPg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbHRcPg==</last-search>
+      <last-search encoding="base64">XDx0cnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0cnlcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -109,6 +114,7 @@
       <history-search>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry encoding="base64">XDxwbHRcPg==</entry>
+        <entry encoding="base64">XDx0cnlcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
