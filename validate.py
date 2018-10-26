@@ -22,7 +22,7 @@ def validate(time_array, voltage_array):
         final += s3
 
     if final != "":
-        raise Exception(final)
+        raise TypeError(final)
 
 
 if __name__ == "__main__":

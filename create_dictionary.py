@@ -1,3 +1,4 @@
+import logging
 
 from reader import csv_reader
 from validate import validate
@@ -6,10 +7,8 @@ from num_beats import num_beats_test
 from duration import duration
 from mean_hr_bpm import mean_beats
 from voltage_extremes import voltage_extremes
+from metrics import create_metrics
 
-def create_metrics():
-    metrics = {}
-    return metrics
 
 def add_word(metrics):
     metrics["mean_hr_bpm"] = mean_heart_rate
