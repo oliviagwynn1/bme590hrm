@@ -52,8 +52,10 @@
         <mark key="]" line="18" column="39" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/beats.py" timestamp="1540515604000">
-        <mark key="[" line="1" column="8" />
+      <file name="$USER_HOME$/bme590hrm/beats.py" timestamp="1540516716647">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_hrm.py" timestamp="1540320524410">
         <mark key="e" line="83" column="21" />
