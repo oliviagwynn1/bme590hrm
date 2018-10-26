@@ -1,8 +1,8 @@
-def csv2(f):
+def csv_reader(data_file):
     import csv
     import numpy as np
 
-    with open(f) as csv_file:
+    with open(data_file) as csv_file:
         reader = csv.reader(csv_file, delimiter=',')
 
         time = []
@@ -24,8 +24,9 @@ def csv2(f):
             voltage.append(v)
         return np.array(time), np.array(voltage)
 
+
 if __name__ == "__main__":
-    data = csv2('test_data29.csv')
-    time = data[0]
-    voltage = data[1]
+    data = csv_reader('test_data32.csv')
+
+
 
