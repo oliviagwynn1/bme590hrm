@@ -16,7 +16,7 @@
       <file name="/a.dummy" timestamp="1539892000853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/test_reader.py" timestamp="1540526373715">
+      <file name="$USER_HOME$/bme590hrm/test_reader.py" timestamp="1540527339025">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540525476741">
@@ -47,11 +47,7 @@
       <file name="/Dummy.txt" timestamp="1540526639894">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540526791493">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="18" column="39" />
-        <mark key="." line="18" column="20" />
-      </file>
+      <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540528049337" />
       <file name="$USER_HOME$/bme590hrm/beats.py" timestamp="1540517365233">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="11" />
@@ -92,10 +88,10 @@
         <text encoding="base64">Cmlm</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">ICAgIHJldHVybiBlcnJvcnM=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICAgIHJldHVybiBlcnJvcnM=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbHRcPg==</text>
