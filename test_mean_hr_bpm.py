@@ -1,7 +1,5 @@
-def test_mean_beats():
-    from mean_hr_beats import mean_beats
+def test_mean_bpm():
+    from mean_hr_bpm import mean_beats
     import numpy as np
-
-    response = num_beats_test(threshold = 0.7, voltage = [1, 2, 3, 2, 1, 2, 3, 2, 1])
-    #    np.testing.assert_array_almost_equal(response, np.array([2, 6]))
-    assert response == 2
+    response = mean_beats(voltage_array=np.array([2,10,2,1,1]), time_array=np.array([0,2,4,6,8]))
+    assert response == float(60/8)
