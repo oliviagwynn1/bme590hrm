@@ -1,11 +1,17 @@
+
 def exceed(voltage_array, value=300):
-    """Check voltage does not exceed 300mv"""
+    """This function checks if the voltage exceeds a given value.
+
+    It requires an input parameter of voltage_array from the csv file
+    read in, as well as a specified value to check if the voltage
+    exceeds it. The for loop runs through the voltage_array, to
+    determine if any number in the voltage array does exceed the given
+    value. If so, an exception is raised.
+    """
+
     for val in voltage_array:
         if val > value:
             raise Exception
 
 
 
-if __name__ == "__main__":
-    import numpy as np
-    exceed(voltage_array=np.array([0,1,3]))

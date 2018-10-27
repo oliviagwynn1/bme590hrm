@@ -1,10 +1,16 @@
 def length(time_array, voltage_array):
-    """Check lengths of time and voltage are the same"""
+    """This function checks if the time and voltage arrays are of equal
+    lengths.
+
+    The function requires input of a time_array and voltage_array,
+    from the csv file read in. The first two lines in the function
+    determine the length of the time and voltage arrays, respectively.
+    The if statement checks to see if they are unequal, if so, it raises
+    and exception.
+    """
+
     time_length = len(time_array)
     voltage_length = len(voltage_array)
+
     if time_length != voltage_length:
         raise Exception
-
-if __name__ == "__main__":
-    import numpy as np
-    length(time_array=np.array([0,1,2]), voltage_array=np.array([-1,3,4]))
