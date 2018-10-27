@@ -19,7 +19,7 @@
       <file name="/a.dummy" timestamp="1540590151110">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/convert_json.py" timestamp="1540597631619">
+      <file name="$USER_HOME$/bme590hrm/convert_json.py" timestamp="1540599861972">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/.pytest_cache/convert_json.py" timestamp="1540597333024">
@@ -39,7 +39,7 @@
         <mark key="'" line="4" column="23" />
         <mark key="[" line="0" column="50" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/test_convert_json.py" timestamp="1540597820584">
+      <file name="$USER_HOME$/bme590hrm/test_convert_json.py" timestamp="1540598972845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_length.py" timestamp="1540579857512" />
@@ -61,7 +61,7 @@
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540598044046">
+      <file name="/Dummy.txt" timestamp="1540598877090">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540597282228">
@@ -105,6 +105,7 @@
       <jump line="27" column="4" filename="$USER_HOME$/bme590hrm/reader.py" />
       <jump line="8" column="23" filename="$USER_HOME$/bme590hrm/test_voltage_extremes.py" />
       <jump line="27" column="4" filename="$USER_HOME$/bme590hrm/hrm.py" />
+      <jump line="8" column="48" filename="$USER_HOME$/bme590hrm/convert_json.py" />
     </jumps>
     <registers>
       <register name="1" type="4">
