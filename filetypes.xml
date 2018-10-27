@@ -5,6 +5,7 @@
       <mapping pattern="dictionaries" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="ReadMe" type="PLAIN_TEXT" />
+      <mapping pattern="Docsting" type="ReST" />
     </extensionMap>
   </component>
 </application>
