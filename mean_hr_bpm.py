@@ -1,5 +1,5 @@
 
-def mean_beats(threshold=0.7, voltage_array, time_array):
+def mean_beats(threshold=0.7, voltage_array=None, time_array=None):
     """This function calculates the average heart rate.
 
     This function requires 3 input parameters; threshold, which can be
