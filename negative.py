@@ -1,5 +1,13 @@
+
 def neg(time_array):
-    """Check time has no negative data"""
+    """This functions checks if any value in the time array is
+    negative.
+
+    The function requires input of a time array from the read csv file.
+    The for loop runs through the time array to see if any input is
+    below zero. If so, an exception is raise.
+    """
+
     for num in time_array:
         if num < 0:
             raise Exception
