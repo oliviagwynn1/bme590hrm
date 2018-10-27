@@ -27,4 +27,5 @@ def validate(time_array, voltage_array):
 
 if __name__ == "__main__":
     import numpy as np
-    validate(time_array = np.array([0,-1,2,3,4,5]), voltage_array=np.array([-5,3,9,10,305,-3,2]))
+    validate(time_array = np.array([0,-1,2,3,4,5]),
+             voltage_array=np.array([-5,3,9,10,305,-3,2]))

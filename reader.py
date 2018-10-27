@@ -4,7 +4,6 @@ def csv_reader(data_file):
 
     with open(data_file) as csv_file:
         reader = csv.reader(csv_file, delimiter=',')
-
         time = []
         voltage = []
         errors = 0
