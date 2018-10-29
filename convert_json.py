@@ -1,5 +1,5 @@
 
-def convert_json(myDictionary, f):
+def convert_json(my_dictionary, f):
     """This function saves the metrics dictionary as a JSON file.
 
     The first line in this code imports the json package. The second
@@ -8,14 +8,14 @@ def convert_json(myDictionary, f):
     reader, removing the '.csv' from the end and replacing it with
     '.json', then saving it.
 
-    :param myDictionary: metric dictionary
+    :param my_dictionary: metric dictionary
     :param f: variable the the file is saved under
-    :type myDictionary: dictionary
+    :type my_dictionary: dictionary
     :type f: string
     """
     import json
 
-    json = json.dumps(myDictionary)
+    json = json.dumps(my_dictionary)
     f = open(f.strip('.csv')+'.json', "w")
     f.write(json)
     f.close()

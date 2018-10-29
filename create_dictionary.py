@@ -10,6 +10,7 @@ from voltage_extremes import voltage_extremes
 from metrics import create_metrics
 from convert_json import convert_json
 
+
 def add_word(metrics):
     """returns metrics
 
@@ -50,10 +51,10 @@ if __name__ == "__main__":
                                  time_array=time_array
                                  )
     voltage_extremes = voltage_extremes(voltage_array=voltage_array)
-    myDictionary = create_metrics()
-    myDictionary = add_word(myDictionary)
-    logging.info(myDictionary)
-    convert_json(myDictionary, f=data_file)
+    my_dictionary = create_metrics()
+    my_dictionary = add_word(my_dictionary)
+    logging.info(my_dictionary)
+    convert_json(my_dictionary, f=data_file)
 
 
 
