@@ -1,6 +1,29 @@
+
 def csv_reader(data_file):
+    """returns np.array(time), np.array(voltage)
+
+    This function reads in csv files.
+
+    The for loop reads each row of the time and voltage lists and
+    converts them from strings to floats. If a string can't be
+    converted, a ValueError is raised and that index is skipped. The
+    error count variable adds all up the number of times a ValueError
+    is raised, if it exceeds 10 errors, the file cannot be read in.
+    After the time and voltage lists are converted to floats, the lists
+    are converted into numpy arrays.
+
+    :param data_file: csv file being read in
+    :type data_file: csv file
+    :return: np.array(time), np.array(voltage)
+    :rtype: ndarray
+    """
+
     import csv
     import numpy as np
+    import logging
+    from logging import config
+
+    logging.config.fileConfig('logger_config.ini', disable_existing_loggers=False)
 
     with open(data_file) as csv_file:
         reader = csv.reader(csv_file, delimiter=',')
@@ -8,7 +31,6 @@ def csv_reader(data_file):
         voltage = []
         errors = 0
 
-        """Reads file row by row"""
         for row in reader:
             try:
                 t = (float(row[0]))
@@ -16,17 +38,22 @@ def csv_reader(data_file):
             except ValueError:
                 errors += 1
                 if errors > 10:
-                    print("Data is inaccurate, please input new data.")
+                    logging.error("Data is inaccurate, please input new data.")
                     break
                 continue
+
             time.append(t)
             voltage.append(v)
+
         return np.array(time), np.array(voltage)
 
 
 if __name__ == "__main__":
-    data = csv_reader('test_data8.csv')
+
     import matplotlib.pyplot as plt
+
+    data = csv_reader('test_data8.csv')
+
     plt.plot(data[0], data[1])
     plt.show()
 

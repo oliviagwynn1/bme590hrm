@@ -1,8 +1,20 @@
-Thi code works by using the file .....
+This code works by using the 'create_dictionary.py' module, and inputting the
+name of the file that you want to run in the 'if __name__ = "__main__"'
+statements, where is is equal to 'data_file'.
 
-
-
-
+This code then runs by importing all the functions from the various modules
+into the file, and runs the data through each function one at a time. First
+it runs through the 'reader.py' module, which reads the csv file, and creates
+two numpy arrays. Then it runs through the 'validate.py' module, which ensures
+that the two arrays (time and voltage) are the same length, as well as
+ensuring that the time array has no negative values, and the voltage arrray
+does not exceed any voltages of 300mv. After this it runs through the 'beats.py',
+'num_beats.py', 'duration.py', 'mean_hr_bpm.py' and 'voltage_extremes.py' modules
+to determine their corresponding values. Once these values are determined, the
+data is run into the 'add_words' function to add the works and key pairs into
+the empty dictionary called metrics, that was created using the 'metrics.py'
+module. Finally, the code is run through the 'convert_json.py' module to
+convert the dictionary into a json file and save it.
 
 
 MIT License
