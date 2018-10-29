@@ -2,8 +2,7 @@
 def validate(time_array, voltage_array):
     """This function validates the input data.
 
-    This function requires inputs of time and voltage arrays from the
-    file read in. This function also requires the length, neg and exceed
+    This function also requires the length, neg and exceed
     functions from the length, negative and exceed files, respectively.
     The first line sets the variable final equal to an empty string. The
     next three lines create three different strings.
@@ -15,6 +14,11 @@ def validate(time_array, voltage_array):
     The if statement checks to see if the final variable is not equal to
     an empty string, if so, a TypeError is raised and the final variable
     is printed.
+
+    :param time_array: array of time values
+    :param voltage_array: array of voltage values
+    :type time_array: ndarray
+    :type voltage_array: ndarray
     """
 
     from length import length
@@ -46,11 +50,6 @@ def validate(time_array, voltage_array):
 
 
 if __name__ == "__main__":
-    """This module tests the validate function. 
-    
-    The module requires the numpy package to create numpy arrays that
-    are given as inputs to the validate function when called.
-    """
 
     import numpy as np
 
