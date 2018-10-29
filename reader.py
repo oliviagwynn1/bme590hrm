@@ -1,6 +1,8 @@
 
 def csv_reader(data_file):
-    """This function reads in csv files.
+    """returns np.array(time), np.array(voltage)
+
+    This function reads in csv files.
 
     This function requires the input of a csv file, as well as the csv
     and numpy packages. The with statement opens the csv file, and

@@ -6,6 +6,11 @@ def duration(time_array):
     first line in the functions determines the index of the last value
     in the time_array. The second line in the function finds the time
     corresponding to this index.
+
+    :param time_array: array of time values
+    :type time_array: array of floats
+    :return: duration_val
+    :rtype: float
     """
 
     length = len(time_array) - 1

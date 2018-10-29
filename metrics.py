@@ -1,6 +1,12 @@
 
 def create_metrics():
-    """This function creates a blank dictionary called metrics."""
+    """returns metrics
+
+    This function creates a blank dictionary called metrics.
+
+    :return: metrics
+    :rtype: dictionary
+    """
 
     metrics = {}
 
