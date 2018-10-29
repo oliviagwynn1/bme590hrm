@@ -1,4 +1,3 @@
-
 import logging
 from logging import config
 from reader import csv_reader
@@ -12,11 +11,26 @@ from metrics import create_metrics
 from convert_json import convert_json
 
 def add_word(metrics):
+    """returns metrics
+
+    This function adds words to the metrics dictionary.
+
+    This function requires the import of the csv_reader, validate,
+    beats_test, num_beats_test, duration, mean_beats, voltage_extremes,
+    create_metrics functions. It adds the results from the calculated
+    variables into the dictionary to create keys.
+
+    :param metrics: dictionary called metrics
+    :type metrics: dictionary
+    :return: metrics
+    :rtype: dictionary
+    """
     metrics["mean_hr_bpm"] = mean_heart_rate
     metrics["voltage_extremes"] = voltage_extremes
     metrics["duration"] = duration
     metrics["num_beats"] = num_beats
     metrics["beats"] = beats
+
     return metrics
 
 
