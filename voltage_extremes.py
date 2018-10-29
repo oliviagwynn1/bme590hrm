@@ -14,8 +14,14 @@ def voltage_extremes(voltage_array):
     :rtype: tuple
     """
 
+    import logging
+    from logging import config
+
+    logging.config.fileConfig('logger_config.ini', disable_existing_loggers=False)
+
     voltage_min = min(voltage_array)
     voltage_max = max(voltage_array)
     voltage_extremes_val = (voltage_min, voltage_max)
+    logging.info(voltage_extremes_val)
 
     return voltage_extremes_val

@@ -22,10 +22,15 @@ def beats_test(threshold=0.7, voltage_array=None, time_array=None):
     """
 
     import peakutils
+    import logging
+    from logging import config
+
+    logging.config.fileConfig('logger_config.ini', disable_existing_loggers=False)
 
     indexes = peakutils.indexes((voltage_array), thres=threshold)
     time_of_beats = time_array[indexes]
     time_of_beats = time_of_beats.tolist()
+    logging.info(time_of_beats)
 
     return time_of_beats
 

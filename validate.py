@@ -20,10 +20,13 @@ def validate(time_array, voltage_array):
     :type time_array: ndarray
     :type voltage_array: ndarray
     """
-
+    import logging
+    from logging import config
     from length import length
     from negative import neg
     from exceed import exceed
+
+    logging.config.fileConfig('logger_config.ini', disable_existing_loggers=False)
 
     final = ""
     s1 = "Time and Voltage arrays have different lengths."
@@ -46,8 +49,7 @@ def validate(time_array, voltage_array):
         final += s3
 
     if final != "":
-        raise TypeError(final)
-
+        logging.error(TypeError(final))
 
 if __name__ == "__main__":
 

@@ -20,6 +20,10 @@ def csv_reader(data_file):
 
     import csv
     import numpy as np
+    import logging
+    from logging import config
+
+    logging.config.fileConfig('logger_config.ini', disable_existing_loggers=False)
 
     with open(data_file) as csv_file:
         reader = csv.reader(csv_file, delimiter=',')
@@ -34,7 +38,7 @@ def csv_reader(data_file):
             except ValueError:
                 errors += 1
                 if errors > 10:
-                    print("Data is inaccurate, please input new data.")
+                    logging.error("Data is inaccurate, please input new data.")
                     break
                 continue
 

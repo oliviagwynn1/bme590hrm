@@ -21,11 +21,16 @@ def mean_beats(threshold=0.7, voltage_array=None, time_array=None):
     """
 
     import peakutils
+    import logging
+    from logging import config
+
+    logging.config.fileConfig('logger_config.ini', disable_existing_loggers=False)
 
     indexes = peakutils.indexes((voltage_array), thres=threshold)
     number_beats = len(indexes)
     duration_beats = time_array[len(time_array) - 1]
     avg_beats = (number_beats/duration_beats)*60
+    logging.info(avg_beats)
 
     return avg_beats
 
