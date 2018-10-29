@@ -24,11 +24,12 @@
       <file name="$USER_HOME$/bme590hrm/validate.py" timestamp="1540675149435">
         <mark key="[" line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/test_convert_json.py" timestamp="1540669906676" />
       <file name="$USER_HOME$/bme590hrm/test_num_beats.py" timestamp="1540674028267">
         <mark key="[" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/test_length.py" timestamp="1540673784591" />
+      <file name="$USER_HOME$/bme590hrm/docs/conf.py" timestamp="1540781192605">
+        <mark key="[" line="16" column="36" />
+      </file>
       <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540675105812">
         <mark key="[" line="0" column="25" />
       </file>
@@ -66,7 +67,6 @@
       <file name="$USER_HOME$/bme590hrm/test_create_dictionary.py" timestamp="1540590709237">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/peak_finder.py" timestamp="1540664695280" />
       <file name="$USER_HOME$/bme590hrm/Exceed.py" timestamp="1540579310940">
         <mark key="[" line="0" column="0" />
       </file>
