@@ -114,8 +114,10 @@
       <file name="$USER_HOME$/bme590hrm/metrics.py" timestamp="1540785207274">
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/BME590L_Arduino/ADPL" timestamp="1540916043781">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/BME590L_Arduino/ADPL" timestamp="1540916655257">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
       </file>
       <file name="$USER_HOME$/bme590hrm/Docsting" timestamp="1540667555080">
         <mark key="[" line="0" column="23" />
@@ -164,13 +166,13 @@
         <text encoding="base64">ICAgIFRoaXMgZnVuY3Rpb24gcmVxdWlyZXMgdGhlIG51bXB5IHBhY2thZ2UsIGFzIHdlbGwgYXMgdGhlIGJlYXRzCiAgICBiZWF0cyBmdW5jdGlvbiBiZWluZyB0ZXN0aW5nLiBUaGUgZmlyc3QgbGluZSBpbiB0aGUgZnVuY3Rpb24gaXMgdGhl</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">IGlzIGFzc29j</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cmlm</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IGlzIGFzc29j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnlcPg==</text>
