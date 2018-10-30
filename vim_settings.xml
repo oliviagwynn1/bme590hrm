@@ -12,13 +12,13 @@
       <file name="$USER_HOME$/bme590hrm/create_dictionary.py" timestamp="1540785858738">
         <mark key="[" line="40" column="43" />
       </file>
-      <file name="/Python Console" timestamp="1540518824323">
+      <file name="/Python Console" timestamp="1540929567902">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/environment.yml" timestamp="1540171837869">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1540779210057">
+      <file name="/a.dummy" timestamp="1540928963026">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/convert_json.py" timestamp="1540785177745">
@@ -32,6 +32,16 @@
       </file>
       <file name="$USER_HOME$/bme590hrm/test_reader.py" timestamp="1540527339025">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Python_BME590/web_services.py" timestamp="1540930563903">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="16" column="6" />
+      </file>
+      <file name="$USER_HOME$/Python_BME590/requirements" timestamp="1540929810788">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="6" />
+        <mark key="^" line="14" column="6" />
+        <mark key="." line="14" column="6" />
       </file>
       <file name="$USER_HOME$/bme590hrm/logger_config.ini" timestamp="1540783034506">
         <mark key="[" line="11" column="9" />
@@ -76,7 +86,7 @@
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540785864882">
+      <file name="/Dummy.txt" timestamp="1540929708351">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540784997387">
@@ -169,13 +179,13 @@
         <text encoding="base64">ICAgIFRoaXMgZnVuY3Rpb24gcmVxdWlyZXMgdGhlIG51bXB5IHBhY2thZ2UsIGFzIHdlbGwgYXMgdGhlIGJlYXRzCiAgICBiZWF0cyBmdW5jdGlvbiBiZWluZyB0ZXN0aW5nLiBUaGUgZmlyc3QgbGluZSBpbiB0aGUgZnVuY3Rpb24gaXMgdGhl</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGlzIGFzc29j</text>
+        <text>t</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cmlm</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlzIGFzc29j</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnlcPg==</text>
@@ -198,7 +208,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
