@@ -9,6 +9,7 @@
       <mapping pattern="dictionaries" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="ADPL" type="PLAIN_TEXT" />
+      <mapping pattern="flask_learn" type="Python" />
       <mapping pattern="Docsting" type="ReST" />
     </extensionMap>
   </component>
