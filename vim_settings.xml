@@ -128,6 +128,7 @@
       <file name="$USER_HOME$/bme590hrm/negative.py" timestamp="1540781955323">
         <mark key="[" line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/flask_getting_started/get_practice.py" timestamp="1541711649783" />
       <file name="$USER_HOME$/bme590hrm/logger_config" timestamp="1540782590034">
         <mark key="[" line="10" column="7" />
       </file>
@@ -160,6 +161,10 @@
         <mark key="[" line="16" column="38" />
       </file>
       <file name="$USER_HOME$/MSD/mongo_practice.py" timestamp="1541709908217" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/sentinel_server.py" timestamp="1541711681878">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/bme590hrm/test_duration.py" timestamp="1540674111678">
         <mark key="[" line="0" column="0" />
       </file>
@@ -186,6 +191,7 @@
       <jump line="8" column="23" filename="$USER_HOME$/bme590hrm/test_voltage_extremes.py" />
       <jump line="27" column="4" filename="$USER_HOME$/bme590hrm/hrm.py" />
       <jump line="8" column="48" filename="$USER_HOME$/bme590hrm/convert_json.py" />
+      <jump line="6" column="8" filename="$USER_HOME$/heart_rate_sentinel_server/sentinel_server.py" />
     </jumps>
     <registers>
       <register name="1" type="4">
