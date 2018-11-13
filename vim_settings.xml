@@ -33,6 +33,11 @@
       <file name="$USER_HOME$/Python_BME590/vm_lesson.py" timestamp="1541536218405">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/heart_rate_sentinel_server/patient_dict.py" timestamp="1542134265677">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+      </file>
       <file name="$USER_HOME$/bme590hrm/docs/conf.py" timestamp="1540781192605">
         <mark key="[" line="16" column="36" />
       </file>
@@ -57,7 +62,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/metrics.py" timestamp="1540785207274">
+      <file name="$USER_HOME$/bme590hrm/metrics.py" timestamp="1542133897880">
         <mark key="[" line="17" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/BME590L_Arduino/ADPL" timestamp="1540917822100">
@@ -116,6 +121,9 @@
       <file name="$USER_HOME$/bme590hrm/ReadMe" timestamp="1540785312110">
         <mark key="[" line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/heart_rate_sentinel_server/add_data.py" timestamp="1542134289816">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="filetypes.xml" timestamp="1540320958146">
         <mark key="[" line="0" column="0" />
       </file>
@@ -140,7 +148,7 @@
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541710063303">
+      <file name="/Dummy.txt" timestamp="1542134450947">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/beats.py" timestamp="1540784391504">
@@ -198,13 +206,13 @@
         <text encoding="base64">ICAgIFRoaXMgZnVuY3Rpb24gcmVxdWlyZXMgdGhlIG51bXB5IHBhY2thZ2UsIGFzIHdlbGwgYXMgdGhlIGJlYXRzCiAgICBiZWF0cyBmdW5jdGlvbiBiZWluZyB0ZXN0aW5nLiBUaGUgZmlyc3QgbGluZSBpbiB0aGUgZnVuY3Rpb24gaXMgdGhl</text>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>patient_info</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cmlm</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>patient_info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnlcPg==</text>
