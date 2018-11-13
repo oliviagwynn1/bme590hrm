@@ -9,10 +9,11 @@
       <file name="$USER_HOME$/flask_getting_started/web_service.py" timestamp="1541539203377">
         <mark key="[" line="7" column="14" />
       </file>
+      <file name="$USER_HOME$/heart_rate_sentinel_server/database.py" timestamp="1542140412189" />
       <file name="$USER_HOME$/bme590hrm/environment.yml" timestamp="1540171837869">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1541539214250">
+      <file name="/a.dummy" timestamp="1542136203742">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/.pytest_cache/convert_json.py" timestamp="1540597333024">
@@ -121,9 +122,7 @@
       <file name="$USER_HOME$/bme590hrm/ReadMe" timestamp="1540785312110">
         <mark key="[" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/add_data.py" timestamp="1542134289816">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/heart_rate_sentinel_server/add_data.py" timestamp="1542136181464" />
       <file name="filetypes.xml" timestamp="1540320958146">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,7 +147,7 @@
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542134450947">
+      <file name="/Dummy.txt" timestamp="1542139070127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/beats.py" timestamp="1540784391504">
@@ -168,7 +167,7 @@
       <file name="$USER_HOME$/bme590hrm/docs/source/conf.py" timestamp="1540780474717">
         <mark key="[" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/MSD/mongo_practice.py" timestamp="1541709908217" />
+      <file name="$USER_HOME$/MSD/mongo_practice.py" timestamp="1542138361807" />
       <file name="$USER_HOME$/heart_rate_sentinel_server/sentinel_server.py" timestamp="1541711681878">
         <mark key="'" line="6" column="8" />
         <mark key="[" line="1" column="20" />
@@ -206,13 +205,13 @@
         <text encoding="base64">ICAgIFRoaXMgZnVuY3Rpb24gcmVxdWlyZXMgdGhlIG51bXB5IHBhY2thZ2UsIGFzIHdlbGwgYXMgdGhlIGJlYXRzCiAgICBiZWF0cyBmdW5jdGlvbiBiZWluZyB0ZXN0aW5nLiBUaGUgZmlyc3QgbGluZSBpbiB0aGUgZnVuY3Rpb24gaXMgdGhl</text>
       </register>
       <register name="&quot;" type="4">
-        <text>patient_info</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cmlm</text>
       </register>
       <register name="-" type="4">
-        <text>patient_info</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnlcPg==</text>
