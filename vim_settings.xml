@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/flask_getting_started/web_service.py" timestamp="1541539203377">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/database.py" timestamp="1542140412189" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/database.py" timestamp="1542142227484" />
       <file name="$USER_HOME$/bme590hrm/environment.yml" timestamp="1540171837869">
         <mark key="[" line="1" column="11" />
       </file>
@@ -168,9 +168,8 @@
         <mark key="[" line="16" column="38" />
       </file>
       <file name="$USER_HOME$/MSD/mongo_practice.py" timestamp="1542138361807" />
-      <file name="$USER_HOME$/heart_rate_sentinel_server/sentinel_server.py" timestamp="1541711681878">
-        <mark key="'" line="6" column="8" />
-        <mark key="[" line="1" column="20" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/sentinel_server.py" timestamp="1542142238443">
+        <mark key="[" line="8" column="8" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_duration.py" timestamp="1540674111678">
         <mark key="[" line="0" column="0" />
