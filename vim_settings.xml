@@ -9,8 +9,8 @@
       <file name="$USER_HOME$/flask_getting_started/web_service.py" timestamp="1541539203377">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/database.py" timestamp="1542174208906">
-        <mark key="[" line="40" column="2" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/database.py" timestamp="1542238568271">
+        <mark key="[" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/bme590hrm/environment.yml" timestamp="1540171837869">
         <mark key="[" line="1" column="11" />
@@ -45,40 +45,19 @@
       <file name="$USER_HOME$/bme590hrm/docs/conf.py" timestamp="1540781192605">
         <mark key="[" line="16" column="36" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/reader.py" timestamp="1540784997387">
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="47" column="15" />
-        <mark key="." line="47" column="15" />
-      </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/server.py" timestamp="1542226714497">
-        <mark key="[" line="45" column="39" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/server.py" timestamp="1542238303572">
+        <mark key="]" line="110" column="0" />
+        <mark key="^" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_mean_hr_bpm.py" timestamp="1540673873629">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/length.py" timestamp="1540781619828">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="5" column="54" />
-        <mark key="." line="5" column="54" />
-      </file>
       <file name="$USER_HOME$/Python_BME590/flask.py" timestamp="1541539566747">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/test_beats.py" timestamp="1540783719672">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/bme590hrm/metrics.py" timestamp="1542133897880">
         <mark key="[" line="17" column="17" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/BME590L_Arduino/ADPL" timestamp="1540917822100">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="34" />
       </file>
       <file name="$USER_HOME$/bme590hrm/Docsting" timestamp="1540667555080">
         <mark key="[" line="0" column="23" />
@@ -120,11 +99,6 @@
         <mark key="^" line="14" column="6" />
         <mark key="." line="14" column="6" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/logger_config.ini" timestamp="1540783034506">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="9" />
-        <mark key="." line="11" column="9" />
-      </file>
       <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540784635561">
         <mark key="[" line="22" column="14" />
       </file>
@@ -148,21 +122,11 @@
       <file name="$USER_HOME$/bme590hrm/logger_config" timestamp="1540782590034">
         <mark key="[" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/hrm.py" timestamp="1540590135856">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542174472130">
+      <file name="/Dummy.txt" timestamp="1542238638238">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bme590hrm/beats.py" timestamp="1540784391504">
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="34" column="11" />
-        <mark key="." line="34" column="11" />
       </file>
       <file name="$USER_HOME$/Python_BME590/intro_web_services.py" timestamp="1540928123249">
         <mark key="[" line="0" column="0" />
