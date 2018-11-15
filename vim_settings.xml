@@ -46,7 +46,8 @@
       <file name="$USER_HOME$/heart_rate_sentinel_server/venv/database.py" timestamp="1542240358140">
         <mark key="[" line="9" column="61" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/server.py" timestamp="1542241178549">
+      <file name="$USER_HOME$/heart_rate_sentinel_server/server.py" timestamp="1542244714265">
+        <mark key="[" line="40" column="113" />
         <mark key="]" line="112" column="0" />
         <mark key="^" line="112" column="0" />
         <mark key="." line="112" column="0" />
@@ -100,8 +101,10 @@
       <file name="$USER_HOME$/bme590hrm/ReadMe" timestamp="1540785312110">
         <mark key="[" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/venv/get_data.py" timestamp="1542241276061">
-        <mark key="[" line="3" column="20" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/venv/get_data.py" timestamp="1542245295482">
+        <mark key="[" line="11" column="80" />
+        <mark key="]" line="11" column="80" />
+        <mark key="." line="11" column="80" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/add_data.py" timestamp="1542170268844" />
       <file name="filetypes.xml" timestamp="1540320958146">
@@ -172,13 +175,13 @@
         <text encoding="base64">ICAgIFRoaXMgZnVuY3Rpb24gcmVxdWlyZXMgdGhlIG51bXB5IHBhY2thZ2UsIGFzIHdlbGwgYXMgdGhlIGJlYXRzCiAgICBiZWF0cyBmdW5jdGlvbiBiZWluZyB0ZXN0aW5nLiBUaGUgZmlyc3QgbGluZSBpbiB0aGUgZnVuY3Rpb24gaXMgdGhl</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>format(datetime.datetime.now())</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cmlm</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>format(datetime.datetime.now())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnlcPg==</text>
