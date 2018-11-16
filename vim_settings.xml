@@ -50,11 +50,11 @@
       <file name="$USER_HOME$/heart_rate_sentinel_server/venv/database.py" timestamp="1542240358140">
         <mark key="[" line="9" column="61" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/server.py" timestamp="1542390831814">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/server.py" timestamp="1542392526329">
+        <mark key="[" line="61" column="47" />
+        <mark key="]" line="39" column="13" />
+        <mark key="^" line="39" column="13" />
+        <mark key="." line="39" column="13" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/heart_rate.py" timestamp="1542315861453" />
       <file name="$USER_HOME$/bme590hrm/test_mean_hr_bpm.py" timestamp="1540673873629">
