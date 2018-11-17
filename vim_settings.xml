@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/heart_rate_sentinel_server/database.py" timestamp="1542424716389">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/avg_heart_rate.py" timestamp="1542486364923">
+      <file name="$USER_HOME$/heart_rate_sentinel_server/avg_heart_rate.py" timestamp="1542488918088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/environment.yml" timestamp="1540171837869">
@@ -54,8 +54,8 @@
       <file name="$USER_HOME$/heart_rate_sentinel_server/test_tachycardic.py" timestamp="1542477408821">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/server.py" timestamp="1542486291559">
-        <mark key="[" line="101" column="0" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/server.py" timestamp="1542490193457">
+        <mark key="[" line="79" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="^" line="46" column="13" />
         <mark key="." line="65" column="0" />
@@ -150,7 +150,7 @@
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542486637073">
+      <file name="/Dummy.txt" timestamp="1542490360107">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Python_BME590/intro_web_services.py" timestamp="1540928123249">
@@ -170,6 +170,9 @@
       </file>
       <file name="$USER_HOME$/bme590hrm/exceed.py" timestamp="1540784578280">
         <mark key="[" line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/heart_rate_sentinel_server/test_average_hr.py" timestamp="1542490212335">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Python_BME590/flask_learn" timestamp="1541100733158">
         <mark key="[" line="0" column="0" />
