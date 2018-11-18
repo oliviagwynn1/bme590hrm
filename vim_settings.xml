@@ -9,11 +9,11 @@
       <file name="$USER_HOME$/flask_getting_started/web_service.py" timestamp="1541539203377">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/database.py" timestamp="1542424716389">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/database.py" timestamp="1542510654757">
+        <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/avg_heart_rate.py" timestamp="1542488918088">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/avg_heart_rate.py" timestamp="1542509530257">
+        <mark key="[" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/bme590hrm/environment.yml" timestamp="1540171837869">
         <mark key="[" line="1" column="11" />
@@ -38,6 +38,9 @@
       </file>
       <file name="$USER_HOME$/Python_BME590/vm_lesson.py" timestamp="1541536218405">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/heart_rate_sentinel_server/source/conf.py" timestamp="1542508517837">
+        <mark key="[" line="35" column="2" />
       </file>
       <file name="$USER_HOME$/bme590hrm/docs/conf.py" timestamp="1540781192605">
         <mark key="[" line="16" column="36" />
@@ -64,7 +67,7 @@
       <file name="$USER_HOME$/bme590hrm/test_beats.py" timestamp="1542482191756">
         <mark key="[" line="17" column="64" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/metrics.py" timestamp="1542133897880">
+      <file name="$USER_HOME$/bme590hrm/metrics.py" timestamp="1542509393352">
         <mark key="[" line="17" column="17" />
       </file>
       <file name="$USER_HOME$/bme590hrm/Docsting" timestamp="1540667555080">
@@ -88,10 +91,10 @@
       <file name="$USER_HOME$/heart_rate_sentinel_server/tachycardic.py" timestamp="1542501675343">
         <mark key="[" line="15" column="51" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/avg_hr_spec.py" timestamp="1542485825373" />
-      <file name="$USER_HOME$/heart_rate_sentinel_server/tachy_conditions.py" timestamp="1542507048864">
-        <mark key="e" line="39" column="15" />
-        <mark key="[" line="16" column="58" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/avg_hr_spec.py" timestamp="1542509889061" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/tachy_conditions.py" timestamp="1542507677723">
+        <mark key="e" line="44" column="15" />
+        <mark key="[" line="21" column="58" />
       </file>
       <file name="$USER_HOME$/bme590hrm/Exceed.py" timestamp="1540579310940">
         <mark key="[" line="0" column="0" />
@@ -105,16 +108,14 @@
       <file name="/Python Console" timestamp="1542481592605">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/test_avg_hr_spec.py" timestamp="1542484957272">
-        <mark key="[" line="3" column="73" />
-        <mark key="]" line="3" column="73" />
-        <mark key="." line="3" column="73" />
-      </file>
       <file name="$USER_HOME$/bme590hrm/convert_json.py" timestamp="1540785177745">
         <mark key="[" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/setup.py" timestamp="1542498427150">
         <mark key="[" line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/bme590hrm/logger_config.ini" timestamp="1542508966732">
+        <mark key="[" line="22" column="22" />
       </file>
       <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540784635561">
         <mark key="[" line="22" column="14" />
@@ -146,7 +147,7 @@
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542502149043">
+      <file name="/Dummy.txt" timestamp="1542509318360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Python_BME590/intro_web_services.py" timestamp="1540928123249">
@@ -155,6 +156,7 @@
       <file name="$USER_HOME$/bme590hrm/docs/source/conf.py" timestamp="1540780474717">
         <mark key="[" line="16" column="38" />
       </file>
+      <file name="$USER_HOME$/bme590hrm/mean_hr_bpm.py" timestamp="1542507697335" />
       <file name="$USER_HOME$/heart_rate_sentinel_server/sentinel_server.py" timestamp="1542142238443">
         <mark key="[" line="8" column="8" />
       </file>
