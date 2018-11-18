@@ -18,13 +18,12 @@
       <file name="$USER_HOME$/bme590hrm/environment.yml" timestamp="1540171837869">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1542481036977">
+      <file name="/a.dummy" timestamp="1542499392407">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/.pytest_cache/convert_json.py" timestamp="1540597333024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/specified_avg_hr.py" timestamp="1542479569170" />
       <file name="$USER_HOME$/bme590hrm/voltage_extremes.py" timestamp="1540784977696">
         <mark key="[" line="44" column="52" />
       </file>
@@ -46,14 +45,15 @@
       <file name="$USER_HOME$/heart_rate_sentinel_server/venv/database.py" timestamp="1542240358140">
         <mark key="[" line="9" column="61" />
       </file>
+      <file name="$USER_HOME$/heart_rate_sentinel_server/sendgrid.env" timestamp="1542500347780" />
       <file name="$USER_HOME$/heart_rate_sentinel_server/test_tachycardic.py" timestamp="1542477408821">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/server.py" timestamp="1542490193457">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="46" column="13" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/server.py" timestamp="1542501777249">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="47" column="13" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_mean_hr_bpm.py" timestamp="1542481585328">
         <mark key="[" line="16" column="33" />
@@ -85,13 +85,13 @@
       <file name="$USER_HOME$/bme590hrm/test_create_dictionary.py" timestamp="1540590709237">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/tachycardic.py" timestamp="1542485759416">
+      <file name="$USER_HOME$/heart_rate_sentinel_server/tachycardic.py" timestamp="1542501675343">
         <mark key="[" line="15" column="51" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/avg_hr_spec.py" timestamp="1542485825373" />
-      <file name="$USER_HOME$/heart_rate_sentinel_server/tachy_conditions.py" timestamp="1542485489044">
-        <mark key="e" line="27" column="15" />
-        <mark key="[" line="5" column="22" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/tachy_conditions.py" timestamp="1542502021283">
+        <mark key="e" line="41" column="15" />
+        <mark key="[" line="6" column="58" />
       </file>
       <file name="$USER_HOME$/bme590hrm/Exceed.py" timestamp="1540579310940">
         <mark key="[" line="0" column="0" />
@@ -146,7 +146,7 @@
       <file name="$USER_HOME$/Python_BME590/class.py" timestamp="1539891464037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542498400682">
+      <file name="/Dummy.txt" timestamp="1542502149043">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Python_BME590/intro_web_services.py" timestamp="1540928123249">
@@ -176,6 +176,12 @@
       <file name="$USER_HOME$/bme590hrm/test_negative.py" timestamp="1540672154689">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/heart_rate_sentinel_server/sendgrid_email.py" timestamp="1542502199290">
+        <mark key="'" line="12" column="22" />
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="37" />
+      </file>
       <file name="$USER_HOME$/Python_BME590/Dictionary.py" timestamp="1539891168983">
         <mark key="[" line="49" column="33" />
       </file>
@@ -194,13 +200,14 @@
       <jump line="27" column="4" filename="$USER_HOME$/bme590hrm/hrm.py" />
       <jump line="8" column="48" filename="$USER_HOME$/bme590hrm/convert_json.py" />
       <jump line="6" column="8" filename="$USER_HOME$/heart_rate_sentinel_server/sentinel_server.py" />
+      <jump line="11" column="22" filename="$USER_HOME$/heart_rate_sentinel_server/sendgrid_email.py" />
     </jumps>
     <registers>
       <register name="1" type="4">
         <text encoding="base64">ICAgIFRoaXMgZnVuY3Rpb24gcmVxdWlyZXMgdGhlIG51bXB5IHBhY2thZ2UsIGFzIHdlbGwgYXMgdGhlIGJlYXRzCiAgICBiZWF0cyBmdW5jdGlvbiBiZWluZyB0ZXN0aW5nLiBUaGUgZmlyc3QgbGluZSBpbiB0aGUgZnVuY3Rpb24gaXMgdGhl</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>ke.edu&quot;</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cmlm</text>
@@ -209,7 +216,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>ke.edu&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnlcPg==</text>
