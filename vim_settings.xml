@@ -48,9 +48,14 @@
       <file name="$USER_HOME$/heart_rate_sentinel_server/venv/database.py" timestamp="1542240358140">
         <mark key="[" line="9" column="61" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/sendgrid.env" timestamp="1542505348703" />
       <file name="$USER_HOME$/heart_rate_sentinel_server/test_tachycardic.py" timestamp="1542477408821">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/bme590final/server.py" timestamp="1543351980563">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/server.py" timestamp="1542517700544">
         <mark key="'" line="129" column="17" />
@@ -168,7 +173,6 @@
       <file name="$USER_HOME$/bme590hrm/docs/source/conf.py" timestamp="1540780474717">
         <mark key="[" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/bme590hrm/mean_hr_bpm.py" timestamp="1542507697335" />
       <file name="$USER_HOME$/heart_rate_sentinel_server/sentinel_server.py" timestamp="1542142238443">
         <mark key="[" line="8" column="8" />
       </file>
@@ -187,6 +191,12 @@
       </file>
       <file name="$USER_HOME$/Python_BME590/flask_learn" timestamp="1541100733158">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/bme590final/.travis.yml" timestamp="1543351783598">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="5" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_negative.py" timestamp="1540672154689">
         <mark key="[" line="0" column="0" />
@@ -255,6 +265,7 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>Wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
