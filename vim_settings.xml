@@ -56,9 +56,10 @@
         <mark key="[" line="9" column="61" />
       </file>
       <file name="$USER_HOME$/bme590final/front-end/node_modules/babel-eslint/package.json" timestamp="1544304312602" />
-      <file name="$USER_HOME$/React_Intro/react-learning/src/Sites.js" timestamp="1544295847106">
+      <file name="$USER_HOME$/React_Intro/react-learning/src/Sites.js" timestamp="1544308193797">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544308685621" />
       <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544244291618">
         <mark key="[" line="0" column="0" />
       </file>
@@ -111,6 +112,9 @@
       <file name="$USER_HOME$/heart_rate_sentinel_server/README.md" timestamp="1544244647583">
         <mark key="[" line="3" column="53" />
       </file>
+      <file name="$USER_HOME$/bme590final/front-end/src/devices.js" timestamp="1544308704528">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Python_BME590/dictionaries" timestamp="1539890117717">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,7 +145,7 @@
       <file name="$USER_HOME$/heart_rate_sentinel_server/test_avg_hr_spec.py" timestamp="1542511385701">
         <mark key="[" line="4" column="72" />
       </file>
-      <file name="$USER_HOME$/React_Intro/react-learning/src/App.js" timestamp="1544294002740">
+      <file name="$USER_HOME$/React_Intro/react-learning/src/App.js" timestamp="1544308181402">
         <mark key="[" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/bme590hrm/convert_json.py" timestamp="1540785177745">
@@ -153,6 +157,7 @@
       <file name="$USER_HOME$/bme590hrm/logger_config.ini" timestamp="1542508966732">
         <mark key="[" line="22" column="22" />
       </file>
+      <file name="$USER_HOME$/bme590final/front-end/src/home.js" timestamp="1544308749142" />
       <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540784635561">
         <mark key="[" line="22" column="14" />
       </file>
@@ -179,6 +184,9 @@
       </file>
       <file name="$USER_HOME$/bme590hrm/logger_config" timestamp="1540782590034">
         <mark key="[" line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/React_Intro/react-learning/src/devices.js" timestamp="1544308203298">
+        <mark key="[" line="0" column="39" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/sendgrid.py" timestamp="1542498116616">
         <mark key="[" line="3" column="35" />
@@ -207,10 +215,6 @@
       <file name="$USER_HOME$/bme590hrm/exceed.py" timestamp="1540784578280">
         <mark key="[" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/test_average_hr.py" timestamp="1542512259101">
-        <mark key="'" line="11" column="55" />
-        <mark key="[" line="11" column="55" />
-      </file>
       <file name="$USER_HOME$/Python_BME590/flask_learn" timestamp="1541100733158">
         <mark key="[" line="0" column="0" />
       </file>
@@ -222,13 +226,6 @@
       </file>
       <file name="$USER_HOME$/bme590hrm/test_negative.py" timestamp="1540672154689">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/sendgrid_email.py" timestamp="1542515888900">
-        <mark key="'" line="22" column="22" />
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="^" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/Python_BME590/Dictionary.py" timestamp="1539891168983">
         <mark key="[" line="49" column="33" />
