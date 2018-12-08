@@ -48,6 +48,9 @@
       <file name="$USER_HOME$/heart_rate_sentinel_server/venv/database.py" timestamp="1542240358140">
         <mark key="[" line="9" column="61" />
       </file>
+      <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544244291618">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/test_tachycardic.py" timestamp="1542477408821">
         <mark key="[" line="1" column="0" />
       </file>
@@ -149,6 +152,9 @@
       <file name="$USER_HOME$/heart_rate_sentinel_server/tets_avg_hr_spec.py" timestamp="1542480818720">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/heart_rate_sentinel_server/requirements.txt" timestamp="1544244039936">
+        <mark key="[" line="13" column="0" />
+      </file>
       <file name="filetypes.xml" timestamp="1540320958146">
         <mark key="[" line="0" column="0" />
       </file>
@@ -198,11 +204,11 @@
       <file name="$USER_HOME$/Python_BME590/flask_learn" timestamp="1541100733158">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590final/.travis.yml" timestamp="1543354039839">
+      <file name="$USER_HOME$/bme590final/.travis.yml" timestamp="1544244298816">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_negative.py" timestamp="1540672154689">
         <mark key="[" line="0" column="0" />
