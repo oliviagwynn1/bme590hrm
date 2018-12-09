@@ -56,13 +56,17 @@
         <mark key="[" line="9" column="61" />
       </file>
       <file name="$USER_HOME$/bme590final/front-end/node_modules/babel-eslint/package.json" timestamp="1544304312602" />
-      <file name="$USER_HOME$/React_Intro/react-learning/src/Sites.js" timestamp="1544308193797">
+      <file name="$USER_HOME$/React_Intro/react-learning/src/Sites.js" timestamp="1544323905756">
         <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544317869552">
         <mark key="[" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544317874744" />
+      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544324326957">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+      </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544244291618">
         <mark key="[" line="0" column="0" />
       </file>
@@ -160,7 +164,7 @@
       <file name="$USER_HOME$/bme590hrm/logger_config.ini" timestamp="1542508966732">
         <mark key="[" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/home.js" timestamp="1544308749142" />
+      <file name="$USER_HOME$/bme590final/front-end/src/home.js" timestamp="1544322932145" />
       <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540784635561">
         <mark key="[" line="22" column="14" />
       </file>
@@ -254,13 +258,19 @@
       <jump line="24" column="37" filename="$USER_HOME$/React_Intro/react-learning/src/Counter.js" />
     </jumps>
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">RW5oYW5jZWRUYWJsZUhlYWQucHJvcFR5cGVzID0gewo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RW5oYW5jZWRUYWJsZUhlYWQucHJvcFR5cGVzID0gewo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y2xhc3MgIGV4dGVuZHMgQ29tcG9uZW50IHsK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgIFRoaXMgZnVuY3Rpb24gcmVxdWlyZXMgdGhlIG51bXB5IHBhY2thZ2UsIGFzIHdlbGwgYXMgdGhlIGJlYXRzCiAgICBiZWF0cyBmdW5jdGlvbiBiZWluZyB0ZXN0aW5nLiBUaGUgZmlyc3QgbGluZSBpbiB0aGUgZnVuY3Rpb24gaXMgdGhl</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>user_id</text>
-      </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Cmlm</text>
       </register>
       <register name=":" type="4">
