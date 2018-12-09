@@ -62,10 +62,11 @@
       <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544317869552">
         <mark key="[" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544332104107">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544376923514">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544244291618">
         <mark key="[" line="0" column="0" />
@@ -256,6 +257,7 @@
       <jump line="11" column="55" filename="$USER_HOME$/heart_rate_sentinel_server/test_average_hr.py" />
       <jump line="123" column="17" filename="$USER_HOME$/heart_rate_sentinel_server/server.py" />
       <jump line="24" column="37" filename="$USER_HOME$/React_Intro/react-learning/src/Counter.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/bme590final/front-end/src/Devices.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
