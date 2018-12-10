@@ -55,14 +55,13 @@
       <file name="$USER_HOME$/heart_rate_sentinel_server/venv/database.py" timestamp="1542240358140">
         <mark key="[" line="9" column="61" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/node_modules/babel-eslint/package.json" timestamp="1544304312602" />
       <file name="$USER_HOME$/React_Intro/react-learning/src/Sites.js" timestamp="1544323905756">
         <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544317869552">
         <mark key="[" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544376923514">
+      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544455042762">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
@@ -165,7 +164,6 @@
       <file name="$USER_HOME$/bme590hrm/logger_config.ini" timestamp="1542508966732">
         <mark key="[" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/home.js" timestamp="1544322932145" />
       <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540784635561">
         <mark key="[" line="22" column="14" />
       </file>
