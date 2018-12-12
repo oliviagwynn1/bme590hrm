@@ -61,8 +61,8 @@
       <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544587506749">
         <mark key="[" line="36" column="12" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544655776418">
-        <mark key="'" line="61" column="0" />
+      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544657584794">
+        <mark key="'" line="225" column="10" />
         <mark key="[" line="188" column="63" />
         <mark key="]" line="108" column="35" />
         <mark key="." line="108" column="35" />
@@ -257,6 +257,7 @@
       <jump line="123" column="17" filename="$USER_HOME$/heart_rate_sentinel_server/server.py" />
       <jump line="24" column="37" filename="$USER_HOME$/React_Intro/react-learning/src/Counter.js" />
       <jump line="66" column="0" filename="$USER_HOME$/bme590final/front-end/src/Devices.js" />
+      <jump line="225" column="10" filename="$USER_HOME$/bme590final/front-end/src/Devices.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
