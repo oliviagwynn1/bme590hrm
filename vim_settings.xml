@@ -61,14 +61,14 @@
       <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544317869552">
         <mark key="[" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544566934864">
+      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544570784897">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544244291618">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544570860335">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/test_tachycardic.py" timestamp="1542477408821">
         <mark key="[" line="1" column="0" />
@@ -79,12 +79,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/server.py" timestamp="1544244886698">
-        <mark key="'" line="129" column="17" />
-        <mark key="[" line="149" column="39" />
-        <mark key="]" line="149" column="45" />
-        <mark key="^" line="233" column="38" />
-        <mark key="." line="149" column="39" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/server.py" timestamp="1544572300570">
+        <mark key="'" line="122" column="17" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="141" column="45" />
+        <mark key="^" line="224" column="38" />
+        <mark key="." line="141" column="39" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/heart_rate.py" timestamp="1542510966537">
         <mark key="[" line="0" column="22" />
@@ -146,7 +146,7 @@
       <file name="$USER_HOME$/heart_rate_sentinel_server/test_tachy_conditions.py" timestamp="1542511479377">
         <mark key="[" line="0" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1542481592605">
+      <file name="/Python Console" timestamp="1544570886670">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/test_avg_hr_spec.py" timestamp="1542511385701">
@@ -173,8 +173,8 @@
       <file name="$USER_HOME$/heart_rate_sentinel_server/tets_avg_hr_spec.py" timestamp="1542480818720">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/heart_rate_sentinel_server/requirements.txt" timestamp="1544244039936">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/heart_rate_sentinel_server/requirements.txt" timestamp="1544571902323">
+        <mark key="[" line="23" column="7" />
       </file>
       <file name="filetypes.xml" timestamp="1540320958146">
         <mark key="[" line="0" column="0" />
