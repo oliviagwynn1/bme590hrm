@@ -64,13 +64,6 @@
       <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544587506749">
         <mark key="[" line="36" column="12" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544667032395">
-        <mark key="'" line="235" column="19" />
-        <mark key="[" line="235" column="12" />
-        <mark key="]" line="235" column="12" />
-        <mark key="." line="235" column="12" />
-        <mark key="^" line="109" column="35" />
-      </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544570860335">
         <mark key="[" line="2" column="0" />
       </file>
@@ -268,7 +261,7 @@
         <text encoding="base64">RW5oYW5jZWRUYWJsZUhlYWQucHJvcFR5cGVzID0gewo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>list1</text>
+        <text>&quot;c</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Y2xhc3MgIGV4dGVuZHMgQ29tcG9uZW50IHsK</text>
@@ -283,7 +276,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>list1</text>
+        <text>&quot;c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnlcPg==</text>
