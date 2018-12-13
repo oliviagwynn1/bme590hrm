@@ -39,6 +39,9 @@
       <file name="$USER_HOME$/Python_BME590/vm_lesson.py" timestamp="1541536218405">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bme590final/front-end/package.json" timestamp="1544666336608">
+        <mark key="[" line="11" column="27" />
+      </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/source/conf.py" timestamp="1542508517837">
         <mark key="[" line="35" column="2" />
       </file>
@@ -61,12 +64,12 @@
       <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544587506749">
         <mark key="[" line="36" column="12" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544658462589">
-        <mark key="'" line="225" column="10" />
-        <mark key="[" line="188" column="63" />
-        <mark key="]" line="108" column="35" />
-        <mark key="." line="108" column="35" />
-        <mark key="^" line="108" column="35" />
+      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544665204191">
+        <mark key="'" line="235" column="19" />
+        <mark key="[" line="235" column="12" />
+        <mark key="]" line="235" column="12" />
+        <mark key="." line="235" column="12" />
+        <mark key="^" line="109" column="35" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544570860335">
         <mark key="[" line="2" column="0" />
@@ -258,13 +261,14 @@
       <jump line="24" column="37" filename="$USER_HOME$/React_Intro/react-learning/src/Counter.js" />
       <jump line="66" column="0" filename="$USER_HOME$/bme590final/front-end/src/Devices.js" />
       <jump line="225" column="10" filename="$USER_HOME$/bme590final/front-end/src/Devices.js" />
+      <jump line="235" column="19" filename="$USER_HOME$/bme590final/front-end/src/Devices.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">RW5oYW5jZWRUYWJsZUhlYWQucHJvcFR5cGVzID0gewo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RW5oYW5jZWRUYWJsZUhlYWQucHJvcFR5cGVzID0gewo=</text>
+      <register name="&quot;" type="4">
+        <text>list1</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Y2xhc3MgIGV4dGVuZHMgQ29tcG9uZW50IHsK</text>
@@ -279,7 +283,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>list1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnlcPg==</text>
