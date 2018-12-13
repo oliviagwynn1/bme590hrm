@@ -59,13 +59,15 @@
       <file name="$USER_HOME$/React_Intro/react-learning/src/Sites.js" timestamp="1544650827682">
         <mark key="[" line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544723516209">
-        <mark key="[" line="3" column="29" />
+      <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544733835523">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544728818429" />
       <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544570860335">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/bme590final/front-end/src/DeleteDevices.js" timestamp="1544734598450" />
       <file name="$USER_HOME$/heart_rate_sentinel_server/test_tachycardic.py" timestamp="1542477408821">
         <mark key="[" line="1" column="0" />
       </file>
@@ -160,8 +162,8 @@
       <file name="$USER_HOME$/bme590hrm/logger_config.ini" timestamp="1542508966732">
         <mark key="[" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/home.js" timestamp="1544725336394">
-        <mark key="[" line="15" column="75" />
+      <file name="$USER_HOME$/bme590final/front-end/src/home.js" timestamp="1544731220866">
+        <mark key="[" line="13" column="76" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="1" />
       </file>
@@ -264,18 +266,30 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">RW5oYW5jZWRUYWJsZUhlYWQucHJvcFR5cGVzID0gewo=</text>
+        <text encoding="base64">aW1wb3J0IFZlcnRpY2FsQWxpZ25Cb3R0b21JY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9WZXJ0aWNhbEFsaWduQm90dG9tJzsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.devicesWanted</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFZlcnRpY2FsQWxpZ25Cb3R0b21JY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9WZXJ0aWNhbEFsaWduQm90dG9tJzsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPEljb25CdXR0b24gYXJpYS1sYWJlbD0iIj4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IERldmljZXMgZnJvbSAnLi9kZWxldGVfZGV2aWNlcyc7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxWZXJ0aWNhbEFsaWduQm90dG9tSWNvbgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">RW5oYW5jZWRUYWJsZUhlYWQucHJvcFR5cGVzID0gewo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Y2xhc3MgIGV4dGVuZHMgQ29tcG9uZW50IHsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIFRoaXMgZnVuY3Rpb24gcmVxdWlyZXMgdGhlIG51bXB5IHBhY2thZ2UsIGFzIHdlbGwgYXMgdGhlIGJlYXRzCiAgICBiZWF0cyBmdW5jdGlvbiBiZWluZyB0ZXN0aW5nLiBUaGUgZmlyc3QgbGluZSBpbiB0aGUgZnVuY3Rpb24gaXMgdGhl</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Cmlm</text>
       </register>
       <register name=":" type="4">
