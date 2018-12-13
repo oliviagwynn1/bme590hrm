@@ -62,8 +62,11 @@
       <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544723516209">
         <mark key="[" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544723939862">
-        <mark key="'" line="216" column="0" />
+      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544725623089">
+        <mark key="'" line="226" column="0" />
+        <mark key="[" line="160" column="51" />
+        <mark key="]" line="160" column="51" />
+        <mark key="." line="160" column="51" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544570860335">
         <mark key="[" line="2" column="0" />
@@ -162,7 +165,7 @@
       <file name="$USER_HOME$/bme590hrm/logger_config.ini" timestamp="1542508966732">
         <mark key="[" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/home.js" timestamp="1544682301498">
+      <file name="$USER_HOME$/bme590final/front-end/src/home.js" timestamp="1544725336394">
         <mark key="[" line="15" column="75" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="1" />
@@ -269,7 +272,7 @@
         <text encoding="base64">RW5oYW5jZWRUYWJsZUhlYWQucHJvcFR5cGVzID0gewo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;c</text>
+        <text>.devicesWanted</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Y2xhc3MgIGV4dGVuZHMgQ29tcG9uZW50IHsK</text>
@@ -284,7 +287,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;c</text>
+        <text>.devicesWanted</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnlcPg==</text>
