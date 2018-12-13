@@ -62,6 +62,9 @@
       <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544676851712">
         <mark key="[" line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544685112756">
+        <mark key="'" line="213" column="0" />
+      </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544570860335">
         <mark key="[" line="2" column="0" />
       </file>
@@ -159,8 +162,8 @@
       <file name="$USER_HOME$/bme590hrm/logger_config.ini" timestamp="1542508966732">
         <mark key="[" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/home.js" timestamp="1544670545415">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/bme590final/front-end/src/home.js" timestamp="1544682301498">
+        <mark key="[" line="15" column="75" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="1" />
       </file>
@@ -258,6 +261,8 @@
       <jump line="66" column="0" filename="$USER_HOME$/bme590final/front-end/src/Devices.js" />
       <jump line="225" column="10" filename="$USER_HOME$/bme590final/front-end/src/Devices.js" />
       <jump line="235" column="19" filename="$USER_HOME$/bme590final/front-end/src/Devices.js" />
+      <jump line="212" column="34" filename="$USER_HOME$/bme590final/front-end/src/Devices.js" />
+      <jump line="213" column="0" filename="$USER_HOME$/bme590final/front-end/src/Devices.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
