@@ -39,16 +39,14 @@
       <file name="$USER_HOME$/Python_BME590/vm_lesson.py" timestamp="1541536218405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/package.json" timestamp="1544667326288">
-        <mark key="[" line="11" column="27" />
-      </file>
+      <file name="$USER_HOME$/bme590final/front-end/package.json" timestamp="1544667326288" />
       <file name="$USER_HOME$/heart_rate_sentinel_server/source/conf.py" timestamp="1542508517837">
         <mark key="[" line="35" column="2" />
       </file>
       <file name="$USER_HOME$/bme590hrm/docs/conf.py" timestamp="1540781192605">
         <mark key="[" line="16" column="36" />
       </file>
-      <file name="$USER_HOME$/React_Intro/react-learning/src/Counter.js" timestamp="1544295126778">
+      <file name="$USER_HOME$/React_Intro/react-learning/src/Counter.js" timestamp="1544671905949">
         <mark key="'" line="24" column="37" />
         <mark key="[" line="24" column="34" />
         <mark key="]" line="25" column="31" />
@@ -63,6 +61,9 @@
       </file>
       <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544587506749">
         <mark key="[" line="36" column="12" />
+      </file>
+      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544670575154">
+        <mark key="[" line="341" column="24" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544570860335">
         <mark key="[" line="2" column="0" />
@@ -160,6 +161,11 @@
       </file>
       <file name="$USER_HOME$/bme590hrm/logger_config.ini" timestamp="1542508966732">
         <mark key="[" line="22" column="22" />
+      </file>
+      <file name="$USER_HOME$/bme590final/front-end/src/home.js" timestamp="1544670545415">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540784635561">
         <mark key="[" line="22" column="14" />
