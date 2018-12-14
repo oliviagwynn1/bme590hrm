@@ -59,14 +59,17 @@
       <file name="$USER_HOME$/React_Intro/react-learning/src/Sites.js" timestamp="1544650827682">
         <mark key="[" line="21" column="14" />
       </file>
+      <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544829784646" />
       <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544750619372">
         <mark key="[" line="210" column="4" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544570860335">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/DeleteDevices.js" timestamp="1544743638783">
-        <mark key="[" line="216" column="2" />
+      <file name="$USER_HOME$/bme590final/front-end/src/DeleteDevices.js" timestamp="1544830039523">
+        <mark key="[" line="211" column="17" />
+        <mark key="]" line="211" column="17" />
+        <mark key="." line="211" column="17" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/test_tachycardic.py" timestamp="1542477408821">
         <mark key="[" line="1" column="0" />
@@ -264,8 +267,8 @@
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IFZlcnRpY2FsQWxpZ25Cb3R0b21JY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9WZXJ0aWNhbEFsaWduQm90dG9tJzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFZlcnRpY2FsQWxpZ25Cb3R0b21JY29uIGZyb20gJ0BtYXRlcmlhbC11aS9pY29ucy9WZXJ0aWNhbEFsaWduQm90dG9tJzsK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPEljb25CdXR0b24gYXJpYS1sYWJlbD0iIj4K</text>
@@ -292,7 +295,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>.devicesWanted</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnlcPg==</text>
