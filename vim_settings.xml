@@ -59,7 +59,8 @@
       <file name="$USER_HOME$/React_Intro/react-learning/src/Sites.js" timestamp="1544650827682">
         <mark key="[" line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544835779308">
+      <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544836557809" />
+      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544836923546">
         <mark key="[" line="236" column="0" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544570860335">
@@ -72,12 +73,6 @@
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/test_tachycardic.py" timestamp="1542477408821">
         <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/bme590final/server.py" timestamp="1543351980563">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/server.py" timestamp="1544572300570">
         <mark key="'" line="122" column="17" />
@@ -101,11 +96,8 @@
       <file name="$USER_HOME$/bme590hrm/metrics.py" timestamp="1542509393352">
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="$USER_HOME$/bme590final/requirements.txt" timestamp="1543353896376">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="11" />
-        <mark key="^" line="26" column="11" />
-        <mark key="." line="26" column="11" />
+      <file name="$USER_HOME$/bme590final/front-end/src/returnHome.js" timestamp="1544836750638">
+        <mark key="[" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/bme590hrm/Docsting" timestamp="1540667555080">
         <mark key="[" line="0" column="23" />
@@ -164,6 +156,7 @@
       <file name="$USER_HOME$/bme590hrm/logger_config.ini" timestamp="1542508966732">
         <mark key="[" line="22" column="22" />
       </file>
+      <file name="$USER_HOME$/bme590final/front-end/src/home.js" timestamp="1544836646816" />
       <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540784635561">
         <mark key="[" line="22" column="14" />
       </file>
@@ -223,12 +216,6 @@
       </file>
       <file name="$USER_HOME$/Python_BME590/flask_learn" timestamp="1541100733158">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bme590final/.travis.yml" timestamp="1544244298816">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="23" />
       </file>
       <file name="$USER_HOME$/bme590hrm/test_negative.py" timestamp="1540672154689">
         <mark key="[" line="0" column="0" />
