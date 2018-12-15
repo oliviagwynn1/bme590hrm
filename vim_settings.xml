@@ -59,17 +59,17 @@
       <file name="$USER_HOME$/React_Intro/react-learning/src/Sites.js" timestamp="1544650827682">
         <mark key="[" line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544836557809" />
-      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544838533006">
-        <mark key="[" line="236" column="0" />
+      <file name="$USER_HOME$/bme590final/front-end/src/App.js" timestamp="1544842938549">
+        <mark key="[" line="97" column="17" />
+      </file>
+      <file name="$USER_HOME$/bme590final/front-end/src/Devices.js" timestamp="1544842984079">
+        <mark key="[" line="367" column="46" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/.travis.yml" timestamp="1544570860335">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/DeleteDevices.js" timestamp="1544841492728">
-        <mark key="[" line="224" column="17" />
-        <mark key="]" line="224" column="17" />
-        <mark key="." line="224" column="17" />
+      <file name="$USER_HOME$/bme590final/front-end/src/DeleteDevices.js" timestamp="1544842974623">
+        <mark key="[" line="361" column="46" />
       </file>
       <file name="$USER_HOME$/heart_rate_sentinel_server/test_tachycardic.py" timestamp="1542477408821">
         <mark key="[" line="1" column="0" />
@@ -156,7 +156,9 @@
       <file name="$USER_HOME$/bme590hrm/logger_config.ini" timestamp="1542508966732">
         <mark key="[" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/bme590final/front-end/src/home.js" timestamp="1544836646816" />
+      <file name="$USER_HOME$/bme590final/front-end/src/home.js" timestamp="1544843107985">
+        <mark key="[" line="33" column="8" />
+      </file>
       <file name="$USER_HOME$/bme590hrm/duration.py" timestamp="1540784635561">
         <mark key="[" line="22" column="14" />
       </file>
